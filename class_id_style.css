@@ -1,0 +1,18 @@
+body {font-family: arial,sans-serif;
+  
+}
+
+#first{ font-family: monospace;
+        color: blue;
+}
+#second{ color: green;
+}
+.monospace{ margin-left: 200px;
+  margin-right: 20px;
+}
+
+.shout{text-transform: uppercase; }
+
+.loud{color: orange;}
+
+#third{ background-color: grey;}
