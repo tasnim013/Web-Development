@@ -1,0 +1,16 @@
+body {
+  font-family: Cursive;
+  color: black;
+}
+h1 {color: purple;
+  
+}
+p { boarder-style: solid;
+  border-color: red;
+  border-width: 5px;
+}
+
+a {color: green;
+  background-color: none;
+  text-decoration: none;
+}
