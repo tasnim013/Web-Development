@@ -12,5 +12,5 @@ p { boarder-style: solid;
 
 a {color: green;
   background-color: none;
-  text-decoration: none;
+  text-decoration: underline;
 }
